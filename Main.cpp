@@ -43,7 +43,7 @@ int main(void)
 
         case 2: {
             // Loads commands from file! Had to manually input the file path
-            FILE* infile = fopen("D:/Downloads/PA1/commands.csv", "r");
+            FILE* infile = fopen("C:\Users\Phoni\iCloudDrive\Documents\WSU 24-25\CPTS_223\PA1/commands.csv", "r");
             if (infile == NULL) {
                 cerr << "Error: Could not open commands.csv" << endl;
                 break;

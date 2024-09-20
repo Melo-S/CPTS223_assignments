@@ -1,0 +1,3 @@
+D:/Downloads/PA1/out/build/x86-debug/CMakeFiles/PA1.dir
+D:/Downloads/PA1/out/build/x86-debug/CMakeFiles/edit_cache.dir
+D:/Downloads/PA1/out/build/x86-debug/CMakeFiles/rebuild_cache.dir

@@ -1,0 +1,2 @@
+#pragma code_page(65001)
+1 /* CREATEPROCESS_MANIFEST_RESOURCE_ID */ 24 /* RT_MANIFEST */ "D:/Downloads/PA1/out/build/x86-debug/CMakeFiles/PA1.dir/embed.manifest"

@@ -1,0 +1,3 @@
+D:/Downloads/CMakeProject1/out/build/x64-debug/CMakeFiles/PA1.dir
+D:/Downloads/CMakeProject1/out/build/x64-debug/CMakeFiles/edit_cache.dir
+D:/Downloads/CMakeProject1/out/build/x64-debug/CMakeFiles/rebuild_cache.dir

@@ -1,0 +1,30 @@
+ls,lists the files and directories in the current working directory
+cd,changes the current directory in the file system
+mkdir,creates new directories in the file system
+rmdir,removes empty directories from the file system
+cp,copies files, groups of files, or directories from one location to another
+mv,moves or renames files and directories
+rm,removes files, directories, and symbolic links from the file system
+scp,securely transfers files between a local host and a remote host, or between two remote hosts
+ssh,establishes a secure encrypted connection between two hosts over an insecure network
+chmod,modifies file or directory permissions using symbolic or numeric values
+chown,changes the user and group ownership of files, directories, or symbolic links
+find,searches for files based on user-defined criteria like name, size, or modification date
+pwd,displays the full path of the current working directory from the root directory
+gcc,is the GNU Compiler Collection, supporting various programming languages like C
+g++,compiles C++ source files and generates an executable file
+make,is a build automation tool used to compile and link programs from source code
+man,displays the manual page for commands or programs on the system
+ps,shows a list of the currently-running processes on the system
+top,displays a dynamic real-time view of system processes and resource usage
+kill,terminates processes manually using a process ID
+df,displays the available and used disk space for mounted file systems
+free,shows the total amount of free and used memory in the system
+cat,reads a file and displays its content as output
+echo,prints text or variables passed as arguments to the terminal
+grep,searches for a specific string or pattern in files
+alias,defines shortcuts or aliases for longer command sequences
+exit,exits the current shell or terminal session
+clear,clears the terminal screen
+who,displays the users currently logged into the system
+finger,provides detailed information about logged-in users
